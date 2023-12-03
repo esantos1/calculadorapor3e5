@@ -2,7 +2,7 @@ Caso queira testar o app, [baixe o `.apk`](https://github.com/esantos1/calculado
 
 Para ver o código:
 
-1. Certifique de ter o [Dart SDK](https://dart.dev/get-dart) instalado.
+1. Certifique de ter o [Flutter](https://docs.flutter.dev/get-started/install) instalado.
 
 1. clone esse repositório em um diretório que não haja espaços e números no nome. Caso contrário, dará erro.
 
