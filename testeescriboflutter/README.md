@@ -1,4 +1,4 @@
-Caso queira testar o app, [baixe o `.apk`](/.github/app/calculadora.apk) no seu celular ou emulador android.
+Caso queira testar o app, [baixe o `.apk`](https://github.com/esantos1/calculadorapor3e5/raw/main/testeescriboflutter/.github/app/calculadora.apk) no seu celular ou emulador android.
 
 Para ver o código:
 
